@@ -1,0 +1,2 @@
+Hasta este punto estuve trabajando con kernel 3.8 en ANGSTROM. 
+Posteriormente trabajo con KERNEL 4.1.15 debian 8.3 Jessie
